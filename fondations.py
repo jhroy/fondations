@@ -11,7 +11,7 @@ import requests
 from time import sleep
 import codecs
 
-# scraper écrit en février-mars 2014 pour extraction des actifs de fondations sur le site de l'Agence du revenu du Canada
+# scraper écrit en mars 2014 pour extraction des actifs de fondations sur le site de l'Agence du revenu du Canada
 
 # définition des trois parties fixes de l'URL qu'on va harnacher
 
