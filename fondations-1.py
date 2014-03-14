@@ -9,7 +9,6 @@ import csv
 from bs4 import BeautifulSoup
 import requests
 from time import sleep
-import codecs
 
 # scraper écrit en mars 2014 pour extraction des actifs de fondations sur le site de l'Agence du revenu du Canada
 
