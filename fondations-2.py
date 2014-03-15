@@ -39,7 +39,7 @@ autresLignes = []
 for n in numero:
 	d = etats[e]
 	print ("")
-	print ("Fondation num %i") % (e+301)
+	print ("Fondation num %i") % (e+1)
 	print ("Les états financiers de %s ont été déposés le %s (source: %s)") % (numero[e], etats[e], source[e])
 	e +=1
 
