@@ -1,5 +1,16 @@
 # -*- coding: utf-8 -*-
 
+# Jean-Hugues Roy 2014 GPL v3
+# Ce programme est un logiciel libre ;
+# vous pouvez le redistribuer ou le modifier suivant les termes de la GNU General Public License
+# telle que publiée par la Free Software Foundation;
+# soit la version 3 de la licence, soit (à votre gré) toute version ultérieure.
+# Ce programme est distribué dans l'espoir qu'il sera utile, mais SANS AUCUNE GARANTIE ;
+# sans même la garantie tacite de QUALITÉ MARCHANDE ou d'ADÉQUATION à UN BUT PARTICULIER.
+# Consultez la GNU General Public License pour plus de détails.
+# Vous devez avoir reçu une copie de la GNU General Public License en même temps que ce programme ;
+# si ce n'est pas le cas, consultez <http://www.gnu.org/licenses>
+
 # la ligne ci-dessous est de-commentée si on se sert de python3 (il faut alors mettre la suivante en commentaire)
 # import urllib.request as urllib2
 import urllib2
